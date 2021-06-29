@@ -1,7 +1,7 @@
 # fastify - fastify-cli - swagger - sequelize - postgres - jwt - fluent json schema - standardjs
 
 ### TL;DR;
-Is not always easy to learn new things from scratch. 
+It is not easy to learn new things from scratch. 
 
 This project is an attempt to summarize several concepts I´ve learned about these tools and perhaps helps someone in the beggining path.
 
