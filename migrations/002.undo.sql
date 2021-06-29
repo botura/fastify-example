@@ -1,0 +1,3 @@
+TRUNCATE TABLE vehicles;
+TRUNCATE TABLE users;
+TRUNCATE TABLE manufacturers;
